@@ -117,13 +117,13 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'lofi',
-			icon: 'cofee',
+			icon: 'coffee',
 			link: 'https://www.youtube.com/watch?v=jfKfPfyJRdk',
 		},
 		{
 			id: '6',
 			name: 'settings',
-			icon: 'setting',
+			icon: 'settings',
 			link: 'about:preferences',
 		},
 	],
